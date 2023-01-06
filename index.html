@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>물고기를 잡아라!</title>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
+    <script src="https://kit.fontawesome.com/f506734a62.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+    <script defer type="module" src="src/main.js"></script>
+  </head>
+  <body>
+    <section class="game">
+      <header class="game__header">
+        <button class="game__btn">
+          <i class="fa-solid fa-play"></i>
+        </button>
+        <span class="game__timer">00:00</span>
+        <span class="game__score">10</span>
+      </header>
+      <section class="game__field"></section>
+    </section>
+    <section class="popup hide">
+      <button class="popup__replay">
+        <i class="fa-solid fa-arrow-rotate-right"></i>
+      </button>
+      <span class="popup__msg"></span>
+    </section>
+    <section class="guide hide">죄송합니다.<br />물고기를 잡아라! 게임은<br />최소 1024px 이상부터 지원됩니다. 😅</section>
+  </body>
+</html>
