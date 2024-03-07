@@ -38,7 +38,7 @@
 
 ## 💻 소스 코드
 
-전체 코드 보러 가기 👉 [Notion]([https://imjone.notion.site/Catch-the-fish-0f2e6609e83d43e2838d933a9c9c5b39](https://imjone.notion.site/Catch-the-fish-0f2e6609e83d43e2838d933a9c9c5b39?pvs=4))
+전체 코드 보러 가기 👉 [Notion](https://imjone.notion.site/Catch-the-fish-0f2e6609e83d43e2838d933a9c9c5b39?pvs=4)
 
 ### 📍 이미지 랜덤 배치
 
